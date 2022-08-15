@@ -55,6 +55,28 @@ footer p{
     padding: 0px 50px;
 }
 
+nav a {
+    font-size: 20px;
+}
+
 nav a:hover{
     color: cyan;
+}
+
+.contact-form input{
+    width: 100%;
+    padding: 8px 0px;
+    margin: 8px 0px;
+}
+
+.contact-form input[type=text] {
+    height: 100px;
+}
+
+button {
+    color: black;
+    background-color: cyan;
+    border: none;
+    width: 100px;
+    height: 30px;
 }
