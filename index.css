@@ -3,18 +3,6 @@ body{
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
-html{
-    scroll-behavior: smooth;
-}
-
-body::-webkit-scrollbar{
-    width: 6px;
-} 
-
-body::-webkit-scrollbar-thumb{
-    border-radius: 10px;
-    background-color: cyan;
-}
 
 ul{
     display: flex;
