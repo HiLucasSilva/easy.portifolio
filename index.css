@@ -71,16 +71,20 @@ nav a:hover{
     width: 100%;
     padding: 8px 0px;
     margin: 8px 0px;
+    background-color: whitesmoke;
+    border-radius: 10px;
 }
 
 .contact-form input[type=text] {
     height: 100px;
+    background-color: whitesmoke;
+    border-radius: 10px;
 }
 
 button {
     color: black;
     background-color: cyan;
-    border: none;
+    border-radius: 10px;
     width: 100px;
     height: 30px;
 }
